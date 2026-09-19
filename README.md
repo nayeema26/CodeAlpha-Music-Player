@@ -91,3 +91,10 @@ audio/
 
 - Demo audio: [SoundHelix](https://www.soundhelix.com)
 
+🌐 Live Demo
+
+
+👩‍💻 Internship Project
+CodeAlpha – Frontend Development Internship
+
+Task: Music Player
