@@ -92,7 +92,7 @@ audio/
 - Demo audio: [SoundHelix](https://www.soundhelix.com)
 
 🌐 Live Demo
-
+https://nayeema26.github.io/CodeAlpha-Music-Player/
 
 👩‍💻 Internship Project
 CodeAlpha – Frontend Development Internship
