@@ -91,7 +91,7 @@ audio/
 
 - Demo audio: [SoundHelix](https://www.soundhelix.com)
 
-🌐 Live Demo
+🌐 Live Demo:
 https://nayeema26.github.io/CodeAlpha-Music-Player/
 
 👩‍💻 Internship Project
